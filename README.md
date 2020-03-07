@@ -6,4 +6,4 @@ by 露易娘 Ruimusume</br>
 TID：01003D200BAA2000</br>
 BID：9dda1efeef70de46
 
-<img src="https://imgur.com/a/RdsivHq.jpg" alt="ポケモン不思議のダンジョン救助隊DX">
+<img src="https://i.imgur.com/dXAjY53.jpg" alt="ポケモン不思議のダンジョン救助隊DX">
