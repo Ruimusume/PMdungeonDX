@@ -2,7 +2,7 @@
 by 露易娘 Ruimusume</br>
 日站博客：http://ruisan.blog.jp/</br>
 微博：https://weibo.com/ruisan</br>
-感谢浅汐&AVZ协助完成算法</br>
+感谢浅汐&AVZ协助完成功能项目</br>
 
 TID：01003D200BAA2000</br>
 BID：9dda1efeef70de46</br>
